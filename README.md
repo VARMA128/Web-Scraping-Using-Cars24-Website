@@ -1,6 +1,7 @@
-🚗 Web Scraping Car Details – Mini Project
-📌 Project Objective
-
+**🚗 Web Scraping Car Details – Mini Project
+**
+**📌 Project Objective
+**
 This mini-project aims to build practical skills in web scraping, data cleaning, and structured data presentation.
 Interns will scrape real-world car listing data from Cars24.com, CarDekho.com, or AckoDrive.com and extract key details such as:
 
@@ -16,7 +17,7 @@ Price
 
 By the end of this project, interns will gain hands-on experience in extracting data from dynamic websites, processing it, and exporting it in a clean, analyzable format.
 
-✅ Project Requirements
+**Project Requirements:**
 1. Scraping Target
 
 Choose one of the following platforms:
