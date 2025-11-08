@@ -1,10 +1,8 @@
-**🚗 Web Scraping Car Details – Mini Project
-**
-**📌 Project Objective
-**
+🚗 Web Scraping Car Details – Mini Project
+
+📌 Project Objective:
 This mini-project aims to build practical skills in web scraping, data cleaning, and structured data presentation.
 Interns will scrape real-world car listing data from Cars24.com, CarDekho.com, or AckoDrive.com and extract key details such as:
-
 Kilometers Driven
 
 Year of Manufacture
@@ -17,9 +15,8 @@ Price
 
 By the end of this project, interns will gain hands-on experience in extracting data from dynamic websites, processing it, and exporting it in a clean, analyzable format.
 
-**Project Requirements:**
+Project Requirements:
 1. Scraping Target
-
 Choose one of the following platforms:
 
 Cars24 — https://www.cars24.com/
@@ -30,8 +27,7 @@ AckoDrive — https://ackodrive.com/
 
 Scrape car listings for the assigned brand.
 
-✅ 2. Data Fields to Collect
-
+2. Data Fields to Collect
 For each car listing, extract:
 
 Kilometers Driven
@@ -47,8 +43,7 @@ Price
 Make sure the scraped values are consistent and clean.
 
 🛠️ Steps to Follow
-1. Research & Planning
-
+1. Research & Planning:
 Study the structure of the website you choose.
 
 Inspect car listing pages using browser DevTools.
@@ -73,8 +68,7 @@ pandas
 
 Extract details only for the assigned car brand.
 
-3. Data Cleaning
-
+3. Data Cleaning:
 Remove unwanted characters (e.g., “₹”, “KM”).
 
 Convert numeric fields to proper integer/float formats.
@@ -89,8 +83,7 @@ Consistent formatting
 
 Handle duplicates if present.
 
-4. Data Presentation
-
+4. Data Presentation:
 Save the final cleaned dataset in CSV format.
 
 Columns should follow this order:
