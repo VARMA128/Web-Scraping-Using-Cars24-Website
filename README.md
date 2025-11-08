@@ -88,4 +88,4 @@ Save the final cleaned dataset in CSV format.
 
 Columns should follow this order:
 
-Year | Kilometers Driven | Fuel Type | Transmission | Price | Brand | Location
+Brand | Car Name | Year | Kilometers Driven | Fuel Type | Transmission | Price 
